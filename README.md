@@ -3,3 +3,6 @@
 - APIs used: openweathermap, unsplash images, coingecko
 - with Chrome extension feature
 - turn on location in privacy settings to enable weather data
+
+### Demo
+https://joujou144.github.io/personal-dashboard/
